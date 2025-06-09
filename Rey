@@ -1,0 +1,5 @@
+```bash
+cd rey
+npm install
+npm start
+```
