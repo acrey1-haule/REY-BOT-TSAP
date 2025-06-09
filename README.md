@@ -1,4 +1,3 @@
-// File: README.md
 # REY-BOT WhatsApp Bot
 
 This is REY-BOT, a smart WhatsApp bot using Baileys.
