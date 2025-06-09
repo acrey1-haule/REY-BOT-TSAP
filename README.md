@@ -18,3 +18,13 @@ This is REY-BOT, a smart WhatsApp bot using Baileys.
 
 ## Commands
 See `!menu` inside WhatsApp to get the full command list.
+
+---
+
+Create these files inside a new folder. Then:
+
+```bash
+cd your-folder-name
+npm install
+npm start
+```
