@@ -1,16 +1,14 @@
+// File: package.json
 {
-  "name": "rey-bot",
+  "name": "rey-bot-whatsapp",
   "version": "1.0.0",
-  "description": "WhatsApp bot with AI personality and media enhancements",
-  "main": "index.js",
+  "type": "module",
+  "main": "lib/bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node lib/bot.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^4.0.7",
-    "axios": "^1.4.0",
-    "form-data": "^4.0.0",
-    "uuid": "^9.0.0",
-    "dotenv": "^16.0.3"
+    "@whiskeysockets/baileys": "^6.5.0",
+    "dotenv": "^16.0.0"
   }
 }
